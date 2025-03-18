@@ -59,7 +59,7 @@ const INFO = {
 			title: "Projeto 4",
 			description:
 				"Projeto feito em java Orientado a objetos, e-commerce com produtos e conectado ao banco de dados.",
-			logo: "java.png",
+			logo: "https://imgur.com/024e7c7d-5558-4637-bf1a-98fa25fe32ce",
 			linkText: "View Project",
 			link: "https://github.com/kaiqueblz/projeto-ecommerc-poo",
 		},
