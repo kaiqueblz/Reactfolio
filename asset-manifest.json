@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Reactfolio/static/css/main.39197426.css",
-    "main.js": "/Reactfolio/static/js/main.025f05b8.js",
-    "static/js/787.512dd3f2.chunk.js": "/Reactfolio/static/js/787.512dd3f2.chunk.js",
+    "main.css": "/Reactfolio/static/css/main.5372c6c7.css",
+    "main.js": "/Reactfolio/static/js/main.7f5cb822.js",
+    "static/js/787.b008a081.chunk.js": "/Reactfolio/static/js/787.b008a081.chunk.js",
     "index.html": "/Reactfolio/index.html",
-    "main.39197426.css.map": "/Reactfolio/static/css/main.39197426.css.map",
-    "main.025f05b8.js.map": "/Reactfolio/static/js/main.025f05b8.js.map",
-    "787.512dd3f2.chunk.js.map": "/Reactfolio/static/js/787.512dd3f2.chunk.js.map"
+    "main.5372c6c7.css.map": "/Reactfolio/static/css/main.5372c6c7.css.map",
+    "main.7f5cb822.js.map": "/Reactfolio/static/js/main.7f5cb822.js.map",
+    "787.b008a081.chunk.js.map": "/Reactfolio/static/js/787.b008a081.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39197426.css",
-    "static/js/main.025f05b8.js"
+    "static/css/main.5372c6c7.css",
+    "static/js/main.7f5cb822.js"
   ]
 }
