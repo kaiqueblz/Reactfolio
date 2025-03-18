@@ -41,7 +41,7 @@ const INFO = {
 			title: "Projeto 2",
 			description:
 				"Projeto feito em flutter, para acompanhemento de progresso dentro de uma academia, e possivel visualizar seu desempenho, treinos e dia treinos, planos de academia e avaliações dos treinadores.",
-			logo: "flutter.png",
+			logo: "https://i.imgur.com/SpRPOz4.png",
 			linkText: "View Project",
 			link: "https://github.com/kaiqueblz/projeto-flutter",
 		},
